@@ -1,4 +1,4 @@
-package net.pascalalma.hadoop;
+package com.example;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
@@ -7,10 +7,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 
 /**
- * Created with IntelliJ IDEA.
- * User: pascal
- * Date: 16-07-13
- * Time: 12:07
+ * Created by Svetlana Lawrentyeva on 28.03.15.
  */
 public class WordMapper extends Mapper<Text,Text,Text,Text> {
 

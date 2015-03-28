@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><excange><pk>1</pk><money_type>dollar</money_type><sell_rate>26</sell_rate><information date="2015-03-29+02:00">It's become dangerous!</information></excange>

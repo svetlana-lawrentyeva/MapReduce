@@ -1,0 +1,3 @@
+apple,alma
+book,kitab
+mother,ana

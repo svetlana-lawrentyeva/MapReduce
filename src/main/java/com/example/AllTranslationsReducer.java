@@ -1,4 +1,4 @@
-package net.pascalalma.hadoop;
+package com.example;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
@@ -6,10 +6,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 
 /**
- * Created with IntelliJ IDEA.
- * User: pascal
- * Date: 17-07-13
- * Time: 19:50
+ * Created by Svetlana Lawrentyeva on 28.03.15.
  */
 public class AllTranslationsReducer extends Reducer<Text, Text, Text, Text> {
 

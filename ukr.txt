@@ -1,0 +1,3 @@
+apple,яблуко
+book,пiдручнiк
+mother,мати

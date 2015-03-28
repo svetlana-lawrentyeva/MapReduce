@@ -1,0 +1,3 @@
+apple|яблоко|alma|яблуко
+book|книга|kitab|пiдручнiк
+mother|мама|ana|мати
